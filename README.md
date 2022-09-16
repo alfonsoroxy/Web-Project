@@ -1,7 +1,7 @@
-@This Web Project focuses on Multimedia Web Page 
+#This Web Project focuses on Multimedia Web Page 
 
-@Web Pages
-  # Homepage
-  # Gallery
-  # Music
-  # Video
+#Web Pages
+  @ Homepage
+  @ Gallery
+  @ Music
+  @ Video
